@@ -1,0 +1,37 @@
+{
+  "series": [
+    {
+      "name": "teste drama",
+      "status": "watched",
+      "genre": "Drama",
+      "comments": "",
+      "id": 2
+    },
+    {
+      "name": "teste acao",
+      "status": "watched",
+      "genre": "Ação",
+      "comments": "",
+      "id": 3
+    },
+    {
+      "name": "teste com",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": "",
+      "id": 4
+    },
+    {
+      "id": 7,
+      "name": "Gilmore Girls 2",
+      "status": "watching",
+      "genre": "Drama",
+      "comments": "Mariana recomendou"
+    }
+  ],
+  "genres": [
+    "Comédia",
+    "Drama",
+    "Ação"
+  ]
+}
