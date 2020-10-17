@@ -4,4 +4,3 @@
 
 ### Tecnologias
 - React
-- Firebase
